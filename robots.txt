@@ -1,0 +1,7 @@
+# robots.txt para PlanificaMás
+# Controla el acceso de los motores de búsqueda a tu sitio
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.planificamas.com/sitemap.xml
